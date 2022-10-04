@@ -5,7 +5,8 @@
 ### Aqui ficarão disponíveis os meus:
 - estudos, 
 - projetos,
-- desafios da jornada.
+- desafios da jornada,
+- certificados.
 
 
 Saudações,
