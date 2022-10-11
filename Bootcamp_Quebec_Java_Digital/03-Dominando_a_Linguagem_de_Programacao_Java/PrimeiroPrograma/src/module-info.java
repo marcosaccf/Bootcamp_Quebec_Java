@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author marco
- *
- */
-module primeiroprograma {
-}
