@@ -1,7 +1,7 @@
 package br.com.dio.collection.list;
 
 
-/* Dadas as seguintes informações sobre meus gatos, crie uma lista e ordene esta lista exibindo:
+/* Dadas as seguintes informações sobre os meus gatos, crie uma lista e ordene esta lista exibindo:
 (nome - idade - cor)
 
 Gato 1 = nome: Jon, idade: 18, cor: preto
